@@ -1,0 +1,53 @@
+{
+  "emails": [
+    "support@alueducation.com",
+    "john.doe@alumni.alueducation.com",
+    "grace_k@si.alueducation.com"
+  ],
+  "aluEmails": [
+    "support@alueducation.com",
+    "john.doe@alumni.alueducation.com",
+    "grace_k@si.alueducation.com"
+  ],
+  "urls": [
+    "https://www.alueducation.com",
+    "http://example.org/login",
+    "https://secure-payments.net/reset?token=123"
+  ],
+  "phoneNumbers": [
+    "+250 788 123 456",
+    "788-123-456"
+  ],
+  "creditCards": [
+    "************1111",
+    "************0004"
+  ],
+  "times": [
+    "09:30 AM",
+    "23:45"
+  ],
+  "htmlTags": [
+    "<script>",
+    "<div class=\"container\">",
+    "<p>",
+    "</p>",
+    "<script>",
+    "</script>"
+  ],
+  "hashtags": [
+    "#ALU",
+    "#SoftwareEngineering",
+    "#RegexPractice"
+  ],
+  "currencyValues": [
+    "$1200",
+    "EUR 450",
+    "RWF 25,000"
+  ],
+  "unsafeContentDetected": [
+    "<script>",
+    "<script>",
+    "DROP TABLE",
+    "SELECT * FROM"
+  ]
+}

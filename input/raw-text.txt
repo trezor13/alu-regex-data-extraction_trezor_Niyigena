@@ -1,0 +1,52 @@
+Hello Team,
+
+Please contact support@alueducation.com for account help.
+
+You may also reach:
+john.doe@alumni.alueducation.com
+grace_k@si.alueducation.com
+
+Some invalid emails:
+admin@@gmail..com
+fake-email@bad
+hacker<script>@evil.com
+
+Customer websites:
+https://www.alueducation.com
+http://example.org/login
+https://secure-payments.net/reset?token=123
+
+Phone numbers from different regions:
++250 788 123 456
++1 (202) 555-0182
+0788-123-456
+
+Payment details:
+Visa: 4111-1111-1111-1111
+MasterCard: 5500 0000 0000 0004
+
+Invalid card:
+9999-0000-1111
+
+Meeting times:
+09:30 AM
+23:45
+
+HTML snippets:
+<div class="container">
+<p>Hello students</p>
+
+Hashtags:
+#ALU
+#SoftwareEngineering
+#RegexPractice
+
+Currency values:
+$1200
+EUR 450
+RWF 25,000
+
+Potential malicious input:
+DROP TABLE users;
+<script>alert('hacked')</script>
+SELECT * FROM passwords;
